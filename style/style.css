@@ -1,0 +1,58 @@
+ul{
+    list-style: none;
+}
+
+footer{
+    background-color: rgb(72, 72, 201);
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: -10px;
+    padding: 50px;
+}
+
+.Kontakt{
+    display: flex;
+    
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+
+.loga{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+
+
+.Oteviracidoba{
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+}
+
+#degeš{
+    font-weight: bold;
+}
+
+#more{
+    font-weight: bold;
+}
+
+#f path:hover{
+    fill: darkred;
+}
+
+#i path:hover{
+    fill: darkred;
+}
+
+#x path:hover{
+    fill: darkred;    
+}
